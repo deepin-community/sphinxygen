@@ -1,3 +1,22 @@
+Metadata-Version: 2.4
+Name: sphinxygen
+Version: 1.0.12
+Summary: A script to generate Sphinx ReST from Doxygen XML
+Author-email: David Robillard <d@drobilla.net>
+License-Expression: ISC
+Project-URL: Homepage, https://gitlab.com/drobilla/sphinxygen
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: C
+Classifier: Topic :: Documentation :: Sphinx
+Classifier: Topic :: Software Development :: Documentation
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Provides-Extra: testing
+Requires-Dist: html5lib; extra == "testing"
+Dynamic: license-file
+
 Sphinxygen
 ==========
 

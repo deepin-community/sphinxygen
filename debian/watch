@@ -1,0 +1,4 @@
+Version: 5
+
+Source: https://pypi.python.org/packages/source/s/sphinxygen/
+Matching-Pattern: sphinxygen-@ANY_VERSION@@ARCHIVE_EXT@

@@ -1,5 +1,28 @@
-template-repository (1.0-1) unstable; urgency=medium
+sphinxygen (1.0.12-1) unstable; urgency=medium
 
-  * Initial release
+  * New upstream version 1.0.12
+  * debian/control:
+    - Drop RRR: no
+    - Bump Standards-Version
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Sebastian Ramacher <sramacher@debian.org>  Sun, 16 Nov 2025 18:49:22 +0100
+
+sphinxygen (1.0.10-1) unstable; urgency=medium
+
+  * New upstream version 1.0.10
+  * debian/: Use dh-sequence-python3
+  * debian/: Bump Standards-Version
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Sun, 09 Feb 2025 21:36:34 +0100
+
+sphinxygen (1.0.4-2) unstable; urgency=medium
+
+  * Source-only upload
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Fri, 10 Nov 2023 23:48:56 +0100
+
+sphinxygen (1.0.4-1) unstable; urgency=low
+
+  * Initial release (Closes: #1055472)
+
+ -- Sebastian Ramacher <sramacher@debian.org>  Mon, 06 Nov 2023 22:25:07 +0100
